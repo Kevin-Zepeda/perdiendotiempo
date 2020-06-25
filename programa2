@@ -1,0 +1,8 @@
+let
+	float n,x.
+in
+	read n;
+	read x;
+	
+	if n < x then write x; else if n > x then write n; else skip; fi;fi;
+end
